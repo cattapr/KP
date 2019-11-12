@@ -1,22 +1,18 @@
 .App {
-  text-align: center;
+  font-family: 'Sanchez', serif;
+ }
+
+.bw2 {
+	border-width: 3px;
 }
 
-.App-logo {
-  height: 40vmin;
-}
+ .folksam-blue {
+  color: #009ce0;
+ }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.bg-beige {
+  background-color: #f8f6f0;
 }
-
-.App-link {
-  color: #09d3ac;
-}
+ .folksam-bg {
+  background-color: #009ce0;
+ }
